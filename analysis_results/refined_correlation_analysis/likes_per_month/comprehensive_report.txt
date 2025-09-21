@@ -1,0 +1,98 @@
+# REFINED Correlation Analysis Report: Normalized Likes/Month
+======================================================================
+
+## 📊 Analysis Overview
+- Primary Method: Spearman correlations (robust to outliers)
+- Feature Set: 20 refined variables (10 boolean + 10 count)
+- Advanced Techniques: Log transformations, percentile rankings, success thresholds
+
+## 🔗 Top Spearman Correlations
+
+• **has_actions_verbs**: ρ = 0.0380 (p = 0.000000)*** [negligible]
+• **has_artists**: ρ = -0.0340 (p = 0.000000)*** [negligible]
+• **has_camera_composition**: ρ = 0.0366 (p = 0.000000)*** [negligible]
+• **has_lighting_color**: ρ = 0.0083 (p = 0.157707) [negligible]
+• **has_quality_boosters**: ρ = 0.0632 (p = 0.000000)*** [negligible]
+• **has_style_codes**: ρ = -0.0080 (p = 0.174351) [negligible]
+• **has_style_modifiers**: ρ = 0.0087 (p = 0.138695) [negligible]
+• **has_subjects**: ρ = -0.0448 (p = 0.000000)*** [negligible]
+• **actions_verbs_count**: ρ = 0.0479 (p = 0.000000)*** [negligible]
+• **artists_count**: ρ = -0.0352 (p = 0.000000)*** [negligible]
+
+## 🔄 Log Transformation Effects
+
+• **has_actions_verbs**: ρ = 0.0380 (original)
+• **has_artists**: ρ = -0.0340 (original)
+• **has_camera_composition**: ρ = 0.0366 (original)
+• **has_lighting_color**: ρ = 0.0083 (original)
+• **has_quality_boosters**: ρ = 0.0632 (original)
+
+## 🎯 Success Threshold Analysis
+
+### Top 10 Percent:
+  • has_negative: r = 0.0783
+  • camera_composition_count: r = 0.0749
+  • quality_boosters_count: r = 0.0747
+
+### Top 25 Percent:
+  • quality_boosters_count: r = 0.0853
+  • prompt_word_count: r = 0.0829
+  • camera_composition_count: r = 0.0750
+
+### Top 50 Percent:
+  • prompt_word_count: r = 0.0895
+  • quality_boosters_count: r = 0.0805
+  • camera_composition_count: r = 0.0565
+
+## 🧪 Significant Category Effects
+
+**Actions_Verbs**: higher engagement**
+  Has: 402.6 ± 1540.0 (n=13,043)
+  No:  346.1 ± 1385.1 (n=16,057)
+  Effect size: 0.039 (negligible)
+  Mann-Whitney p: 0.000000
+
+**Camera_Composition**: higher engagement***
+  Has: 423.4 ± 1541.8 (n=12,237)
+  No:  333.6 ± 1390.7 (n=16,863)
+  Effect size: 0.062 (negligible)
+  Mann-Whitney p: 0.000000
+
+**Quality_Boosters**: higher engagement***
+  Has: 404.5 ± 1494.8 (n=14,616)
+  No:  338.0 ± 1416.7 (n=14,484)
+  Effect size: 0.046 (negligible)
+  Mann-Whitney p: 0.000000
+
+**Subjects**: lower engagement***
+  Has: 344.3 ± 1355.4 (n=25,025)
+  No:  537.7 ± 1960.2 (n=4,075)
+  Effect size: -0.133 (negligible)
+  Mann-Whitney p: 0.000000
+
+**Negative**: higher engagement***
+  Has: 443.6 ± 1650.4 (n=16,257)
+  No:  280.0 ± 1160.1 (n=12,843)
+  Effect size: 0.113 (negligible)
+  Mann-Whitney p: 0.007429
+
+**Weights**: higher engagement*
+  Has: 394.8 ± 1504.4 (n=13,277)
+  No:  351.7 ± 1415.4 (n=15,823)
+  Effect size: 0.030 (negligible)
+  Mann-Whitney p: 0.000928
+
+## 📋 Methodology Notes
+
+**Statistical Methods:**
+- Spearman ρ: Robust to outliers, captures monotonic relationships
+- Log transformations: log(x+1) for count variables
+- Percentile rankings: Rank-based transformations
+- Point-biserial: Correlations with binary success thresholds
+- Mann-Whitney U: Non-parametric group comparisons
+
+**Effect Size Interpretations:**
+- Negligible: |ρ| < 0.2
+- Small: 0.2 ≤ |ρ| < 0.5
+- Medium: 0.5 ≤ |ρ| < 0.8
+- Large: |ρ| ≥ 0.8

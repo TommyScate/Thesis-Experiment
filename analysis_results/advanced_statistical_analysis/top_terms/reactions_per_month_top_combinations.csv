@@ -1,0 +1,70 @@
+metric,feature_combination,count,median_engagement,mean_engagement,std_engagement,percentile_rank
+reactions_per_month,Actions + Artists + Camera + Lighting + Negative Prompts + Negative Terms + Parameter Weights + Quality + Style Codes + Style Modifiers + Subjects,32,4752.030000000001,5932.2890625,4686.137032851765,97.94501718213058
+reactions_per_month,Actions + Camera + Negative Prompts + Negative Terms + Parameter Weights + Subjects,12,4278.14,4515.634166666668,2576.996223216927,97.72508591065292
+reactions_per_month,Artists + Camera + Lighting + Negative Prompts + Negative Terms + Parameter Weights + Quality + Style Codes + Style Modifiers + Subjects,25,4090.83,6590.8184,7874.610084615329,97.61855670103093
+reactions_per_month,Actions + Camera + Lighting + Parameter Weights + Quality + Subjects,24,3824.4,5303.495833333333,5184.3422847309475,97.4639175257732
+reactions_per_month,Actions + Camera + Parameter Weights + Quality + Subjects,10,3204.775,4555.784000000001,3322.5990567512054,96.97938144329896
+reactions_per_month,Actions + Artists + Camera + Lighting + Negative Prompts + Negative Terms + Parameter Weights + Quality + Style Codes + Subjects,23,3185.45,5763.768260869564,6154.052039731822,96.96563573883161
+reactions_per_month,Camera + Lighting + Parameter Weights + Quality + Style Codes + Style Modifiers + Subjects,26,2933.275,6750.581538461538,8246.405264987934,96.77319587628865
+reactions_per_month,Artists + Camera + Negative Prompts + Negative Terms + Parameter Weights + Quality + Style Codes + Style Modifiers + Subjects,17,2887.3,4955.687058823529,4527.197999135194,96.74570446735395
+reactions_per_month,Actions + Camera + Lighting + Negative Prompts + Negative Terms + Parameter Weights + Quality + Subjects,30,2620.635,5125.164000000001,5188.780185146023,96.4020618556701
+reactions_per_month,Artists + Camera + Lighting + Negative Prompts + Negative Terms + Parameter Weights + Quality + Style Codes + Subjects,11,2531.05,5757.099999999999,6845.73354179614,96.28865979381443
+reactions_per_month,Actions + Camera + Lighting + Negative Prompts + Negative Terms + Parameter Weights + Style Codes + Style Modifiers + Subjects,14,2490.0,4690.267142857143,4055.4677597982786,96.2233676975945
+reactions_per_month,Camera + Lighting + Negative Prompts + Negative Terms + Parameter Weights + Quality + Subjects,14,2375.5699999999997,7246.618571428572,11609.709588150685,96.07560137457044
+reactions_per_month,Actions + Negative Prompts + Negative Terms + Parameter Weights + Quality + Style Codes + Subjects,46,2349.165,3234.4769565217393,2455.3716008685133,96.03436426116838
+reactions_per_month,Parameter Weights + Style Modifiers + Subjects,23,2293.72,4266.588695652173,5737.060086768654,95.95876288659794
+reactions_per_month,Camera + Lighting + Negative Prompts + Negative Terms + Parameter Weights + Quality + Style Modifiers + Subjects,18,2232.855,4604.556111111111,4441.833719280234,95.84192439862542
+reactions_per_month,Actions + Camera + Lighting + Negative Prompts + Negative Terms + Parameter Weights + Quality + Style Modifiers + Subjects,46,2175.205,4423.843478260869,5344.021053514006,95.7594501718213
+reactions_per_month,Actions + Camera + Negative Prompts + Negative Terms + Parameter Weights + Quality + Style Codes + Style Modifiers + Subjects,71,2171.25,4256.520563380282,5439.443261237516,95.75601374570446
+reactions_per_month,Camera + Negative Prompts + Negative Terms + Parameter Weights + Quality + Style Codes + Style Modifiers + Subjects,15,2143.64,5716.497999999999,8380.223343483713,95.71134020618557
+reactions_per_month,Actions + Artists + Camera + Negative Prompts + Negative Terms + Parameter Weights + Quality + Style Codes + Style Modifiers + Subjects,33,2140.77,4195.724242424242,5250.1474507207195,95.70103092783505
+reactions_per_month,Parameter Weights + Subjects,29,2140.11,2692.0689655172414,2594.458114487487,95.69759450171821
+reactions_per_month,Actions + Parameter Weights + Subjects,72,2087.8199999999997,4647.792361111111,6720.419333722886,95.5979381443299
+reactions_per_month,Actions + Artists + Camera + Negative Prompts + Negative Terms + Parameter Weights + Quality + Style Codes + Subjects,30,2084.275,5078.2546666666685,6299.53101012064,95.5979381443299
+reactions_per_month,Actions + Artists + Camera + Lighting + Negative Prompts + Negative Terms + Parameter Weights + Quality + Subjects,11,2033.08,5072.827272727272,8563.641192994199,95.51202749140893
+reactions_per_month,Actions + Parameter Weights + Style Codes + Subjects,14,2016.8,2277.9164285714287,1089.014382310951,95.47766323024055
+reactions_per_month,Actions + Camera + Lighting + Negative Prompts + Negative Terms + Parameter Weights + Quality + Style Codes + Subjects,117,2008.97,5591.514700854701,8295.020640668547,95.47766323024055
+reactions_per_month,Lighting + Parameter Weights + Quality + Subjects,11,2004.15,2024.7099999999998,1008.8955122941485,95.46048109965635
+reactions_per_month,Actions + Camera + Lighting + Parameter Weights + Subjects,24,1979.085,4338.467916666667,4294.722620165144,95.37800687285223
+reactions_per_month,Camera + Lighting + Negative Prompts + Negative Terms + Parameter Weights + Quality + Style Codes + Subjects,42,1967.7350000000001,3525.3130952380952,3576.7898383117144,95.35395189003437
+reactions_per_month,Negative Prompts + Negative Terms + Parameter Weights,454,1961.5,4595.676211453744,6734.478170121328,95.35051546391752
+reactions_per_month,Actions + Lighting + Parameter Weights + Style Codes + Style Modifiers + Subjects,11,1956.33,4774.530909090909,6591.6094127851175,95.34707903780068
+reactions_per_month,Parameter Weights,97,1897.69,4009.3455670103094,5073.694962473483,95.17525773195877
+reactions_per_month,Lighting + Parameter Weights + Subjects,18,1883.2849999999999,3173.056666666667,2805.9396424311526,95.14776632302406
+reactions_per_month,Lighting + Parameter Weights + Style Modifiers + Subjects,18,1869.905,2921.8338888888884,2303.0893318857584,95.12027491408935
+reactions_per_month,Lighting + Negative Prompts + Negative Terms + Parameter Weights + Quality + Style Codes + Style Modifiers + Subjects,38,1838.2350000000001,3484.2371052631584,4389.888369279007,95.01718213058419
+reactions_per_month,Lighting + Parameter Weights + Quality + Style Modifiers + Subjects,17,1832.55,2675.8294117647056,1977.6794543411688,95.0
+reactions_per_month,Actions + Negative Prompts + Negative Terms + Parameter Weights + Quality + Subjects,11,1827.41,4255.53,4700.96443781873,94.98625429553265
+reactions_per_month,Lighting + Parameter Weights + Style Codes + Style Modifiers + Subjects,14,1798.6550000000002,2192.2785714285715,1457.6029573283136,94.8487972508591
+reactions_per_month,Actions + Camera + Negative Prompts + Negative Terms + Parameter Weights + Quality + Style Codes + Subjects,117,1789.5,2731.2082051282055,2598.6973905495256,94.81786941580756
+reactions_per_month,Actions + Camera + Parameter Weights + Style Modifiers + Subjects,20,1750.835,2094.0685000000003,1335.9235153266636,94.73883161512028
+reactions_per_month,Actions + Camera + Lighting + Parameter Weights + Style Modifiers + Subjects,25,1732.5,2591.5735999999997,1750.613567521696,94.69072164948453
+reactions_per_month,Actions + Camera + Negative Prompts + Negative Terms + Parameter Weights + Style Codes + Subjects,14,1716.855,3779.6692857142857,4264.182975028267,94.64604810996563
+reactions_per_month,Camera + Parameter Weights + Quality + Style Modifiers + Subjects,14,1715.56,2356.9021428571427,1360.2669925957214,94.64604810996563
+reactions_per_month,Artists + Lighting + Negative Prompts + Negative Terms + Parameter Weights + Quality + Style Codes + Style Modifiers + Subjects,15,1685.0,4528.089333333333,5574.785224679024,94.58762886597938
+reactions_per_month,Actions + Parameter Weights + Style Modifiers + Subjects,28,1679.7,3151.6314285714284,4662.959620511354,94.57731958762886
+reactions_per_month,Lighting + Negative Prompts + Negative Terms + Parameter Weights + Quality + Style Modifiers + Subjects,17,1674.0,2515.752941176471,2015.181070637588,94.53951890034364
+reactions_per_month,Actions + Lighting + Negative Prompts + Negative Terms + Parameter Weights + Quality + Style Codes + Subjects,19,1661.25,2830.7252631578945,2212.6748984130127,94.47766323024055
+reactions_per_month,Parameter Weights + Quality + Style Modifiers + Subjects,11,1602.95,1788.814545454545,795.1064114760036,94.25773195876289
+reactions_per_month,Actions + Lighting + Parameter Weights + Subjects,30,1584.6100000000001,5906.2210000000005,16683.55367855848,94.19931271477662
+reactions_per_month,Camera + Lighting + Parameter Weights + Quality + Style Modifiers + Subjects,13,1584.11,2740.269230769231,2828.9333803490767,94.19243986254295
+reactions_per_month,Camera + Lighting + Parameter Weights + Style Modifiers + Subjects,11,1582.58,2306.995454545455,1570.9589150542513,94.18213058419244
+reactions_per_month,Actions + Camera + Lighting + Negative Prompts + Negative Terms + Parameter Weights + Quality + Style Codes + Style Modifiers + Subjects,130,1575.44,3605.596692307692,5169.198510660026,94.14432989690721
+reactions_per_month,Camera + Lighting + Parameter Weights + Subjects,17,1575.0,3449.415882352941,4241.989362813657,94.14432989690721
+reactions_per_month,Negative Prompts + Negative Terms + Parameter Weights + Quality + Style Codes + Style Modifiers + Subjects,17,1567.5,4290.1947058823525,9668.682619746582,94.09965635738831
+reactions_per_month,Actions + Camera + Negative Prompts + Negative Terms + Parameter Weights + Quality + Style Modifiers + Subjects,14,1564.31,3276.64,4252.8907765911745,94.09278350515464
+reactions_per_month,Actions + Camera + Negative Prompts + Negative Terms + Parameter Weights + Quality + Subjects,23,1551.54,3125.043043478261,2806.769821062972,94.03436426116838
+reactions_per_month,Actions + Negative Prompts + Negative Terms + Parameter Weights + Quality + Style Codes + Style Modifiers + Subjects,17,1547.21,6494.817647058824,10575.152475188648,94.02061855670102
+reactions_per_month,Actions + Artists + Negative Prompts + Negative Terms + Parameter Weights + Quality + Style Codes + Subjects,16,1541.0149999999999,2908.125,3991.0076347787785,94.0
+reactions_per_month,Camera + Negative Prompts + Negative Terms + Parameter Weights + Quality + Style Codes + Subjects,22,1525.975,4276.961818181819,6940.69158214055,93.95189003436425
+reactions_per_month,Actions + Camera + Parameter Weights + Subjects,21,1516.36,2055.949047619047,1237.9426659310304,93.90378006872852
+reactions_per_month,Actions + Lighting + Parameter Weights + Style Modifiers + Subjects,24,1453.17,3592.4120833333327,5363.678648030798,93.57731958762886
+reactions_per_month,Actions + Lighting + Negative Prompts + Negative Terms + Parameter Weights + Quality + Style Codes + Style Modifiers + Subjects,14,1426.45,2834.2335714285714,4122.63091516918,93.42611683848797
+reactions_per_month,Artists + Camera + Lighting + Parameter Weights + Quality + Style Codes + Style Modifiers + Subjects,16,1421.505,1739.88375,817.6254417203745,93.4020618556701
+reactions_per_month,Negative Prompts + Negative Terms + Parameter Weights + Quality + Style Codes + Subjects,24,1410.135,1989.4104166666666,1898.4668655950586,93.35051546391752
+reactions_per_month,Actions + Camera + Negative Prompts + Negative Terms + Parameter Weights + Style Codes + Style Modifiers + Subjects,12,1383.355,2445.2816666666663,2258.2818212335433,93.2508591065292
+reactions_per_month,Lighting + Parameter Weights + Quality + Style Codes + Style Modifiers + Subjects,11,1376.67,2446.9809090909093,2088.082358343762,93.20962199312714
+reactions_per_month,Camera + Lighting + Negative Prompts + Negative Terms + Parameter Weights + Quality + Style Codes + Style Modifiers + Subjects,40,1358.635,3509.05625,4854.517046007094,93.0893470790378
+reactions_per_month,Negative Prompts + Negative Terms + Parameter Weights + Quality + Style Modifiers + Subjects,11,1286.25,2837.182727272727,3765.884483175212,92.6512027491409
+reactions_per_month,Camera + Lighting + Parameter Weights + Style Codes + Style Modifiers + Subjects,10,1220.3,1737.0099999999998,1138.0170248550767,92.24398625429554
+reactions_per_month,Lighting + Negative Prompts + Negative Terms + Parameter Weights + Quality + Style Codes + Subjects,17,1218.57,3549.1494117647057,5626.752869572364,92.21993127147766

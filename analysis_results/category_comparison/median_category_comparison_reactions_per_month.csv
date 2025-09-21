@@ -1,0 +1,21 @@
+Category,Group,Count,Median Value,Percentage Change
+Subjects,Has Subjects,20655,95.1,+0.5%
+Subjects,No Subjects,2989,94.6,+0.5%
+Style Modifiers,Has Style Modifiers,10030,96.1,+2.4%
+Style Modifiers,No Style Modifiers,13614,93.8,+2.4%
+Quality Boosters,Has Quality Boosters,11524,97.0,+4.5%
+Quality Boosters,No Quality Boosters,12120,92.8,+4.5%
+Camera Composition,Has Camera Composition,9577,93.4,-2.7%
+Camera Composition,No Camera Composition,14067,95.9,-2.7%
+Lighting Color,Has Lighting Color,10209,95.1,+0.2%
+Lighting Color,No Lighting Color,13435,94.8,+0.2%
+Artists,Has Artists,3856,82.7,-15.3%
+Artists,No Artists,19788,97.6,-15.3%
+Actions Verbs,Has Actions Verbs,10366,99.8,+10.7%
+Actions Verbs,No Actions Verbs,13278,90.2,+10.7%
+Style Codes,Has Style Codes,11537,92.2,-5.5%
+Style Codes,No Style Codes,12107,97.6,-5.5%
+Negative Terms,Has Negative Terms,12366,86.7,-17.7%
+Negative Terms,No Negative Terms,11278,105.3,-17.7%
+Weights,Has Weights,10628,92.7,-4.1%
+Weights,No Weights,13016,96.7,-4.1%

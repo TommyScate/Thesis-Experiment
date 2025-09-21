@@ -1,0 +1,18 @@
+{
+  "total_prompts": 23541,
+  "date_range": {
+    "earliest": "2022-11-17",
+    "latest": "2025-06-20",
+    "span_days": 946
+  },
+  "time_filtering": {
+    "cutoff_date": "2025-06-20",
+    "average_months_since_posting": 9.331449349894257,
+    "median_months_since_posting": 8.804204993429698
+  },
+  "negative_prompt_usage": {
+    "with_negative": 12296,
+    "without_negative": 11245,
+    "percentage_with_negative": 52.2322756042649
+  }
+}

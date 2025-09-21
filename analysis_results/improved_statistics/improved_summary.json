@@ -1,0 +1,15 @@
+{
+  "dataset_overview": {
+    "total_prompts": 23541,
+    "date_range": "2022-11-17 to 2025-06-20",
+    "average_months_old": 9.331449349894257,
+    "raw_metrics": {
+      "average_likes": 879.0803704175694,
+      "average_total_engagement": 1350.1683870693682
+    },
+    "normalized_metrics": {
+      "average_likes_per_month": 122.81100165668408,
+      "average_engagement_per_month": 188.60784248757486
+    }
+  }
+}

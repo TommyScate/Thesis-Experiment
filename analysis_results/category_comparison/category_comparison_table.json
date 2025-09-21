@@ -1,0 +1,182 @@
+[
+  {
+    "Category":"Subjects",
+    "Group":"Has Subjects",
+    "Count":25025,
+    "Mean Like Count":884.82,
+    "Mean Total Reactions":1358.2,
+    "Mean Likes Per Month":344.32,
+    "Mean Reactions Per Month":519.78
+  },
+  {
+    "Category":"Subjects",
+    "Group":"No Subjects",
+    "Count":4075,
+    "Mean Like Count":824.19,
+    "Mean Total Reactions":1261.33,
+    "Mean Likes Per Month":537.65,
+    "Mean Reactions Per Month":800.73
+  },
+  {
+    "Category":"Style Modifiers",
+    "Group":"Has Style Modifiers",
+    "Count":12242,
+    "Mean Like Count":909.74,
+    "Mean Total Reactions":1386.21,
+    "Mean Likes Per Month":360.26,
+    "Mean Reactions Per Month":540.2
+  },
+  {
+    "Category":"Style Modifiers",
+    "Group":"No Style Modifiers",
+    "Count":16858,
+    "Mean Like Count":852.07,
+    "Mean Total Reactions":1314.45,
+    "Mean Likes Per Month":379.48,
+    "Mean Reactions Per Month":572.87
+  },
+  {
+    "Category":"Quality Boosters",
+    "Group":"Has Quality Boosters",
+    "Count":14616,
+    "Mean Like Count":860.86,
+    "Mean Total Reactions":1313.02,
+    "Mean Likes Per Month":404.51,
+    "Mean Reactions Per Month":605.07
+  },
+  {
+    "Category":"Quality Boosters",
+    "Group":"No Quality Boosters",
+    "Count":14484,
+    "Mean Like Count":891.94,
+    "Mean Total Reactions":1376.55,
+    "Mean Likes Per Month":337.97,
+    "Mean Reactions Per Month":512.76
+  },
+  {
+    "Category":"Camera Composition",
+    "Group":"Has Camera Composition",
+    "Count":12237,
+    "Mean Like Count":856.18,
+    "Mean Total Reactions":1310.09,
+    "Mean Likes Per Month":423.41,
+    "Mean Reactions Per Month":636.22
+  },
+  {
+    "Category":"Camera Composition",
+    "Group":"No Camera Composition",
+    "Count":16863,
+    "Mean Like Count":890.95,
+    "Mean Total Reactions":1369.71,
+    "Mean Likes Per Month":333.64,
+    "Mean Reactions Per Month":503.18
+  },
+  {
+    "Category":"Lighting Color",
+    "Group":"Has Lighting Color",
+    "Count":12422,
+    "Mean Like Count":900.99,
+    "Mean Total Reactions":1369.47,
+    "Mean Likes Per Month":377.8,
+    "Mean Reactions Per Month":567.59
+  },
+  {
+    "Category":"Lighting Color",
+    "Group":"No Lighting Color",
+    "Count":16678,
+    "Mean Like Count":857.96,
+    "Mean Total Reactions":1326.15,
+    "Mean Likes Per Month":366.62,
+    "Mean Reactions Per Month":552.82
+  },
+  {
+    "Category":"Artists",
+    "Group":"Has Artists",
+    "Count":4735,
+    "Mean Like Count":839.38,
+    "Mean Total Reactions":1285.06,
+    "Mean Likes Per Month":371.7,
+    "Mean Reactions Per Month":554.43
+  },
+  {
+    "Category":"Artists",
+    "Group":"No Artists",
+    "Count":24365,
+    "Mean Like Count":883.51,
+    "Mean Total Reactions":1356.22,
+    "Mean Likes Per Month":371.33,
+    "Mean Reactions Per Month":560.04
+  },
+  {
+    "Category":"Actions Verbs",
+    "Group":"Has Actions Verbs",
+    "Count":13043,
+    "Mean Like Count":860.28,
+    "Mean Total Reactions":1334.8,
+    "Mean Likes Per Month":402.59,
+    "Mean Reactions Per Month":612.82
+  },
+  {
+    "Category":"Actions Verbs",
+    "Group":"No Actions Verbs",
+    "Count":16057,
+    "Mean Like Count":889.37,
+    "Mean Total Reactions":1352.63,
+    "Mean Likes Per Month":346.05,
+    "Mean Reactions Per Month":515.51
+  },
+  {
+    "Category":"Style Codes",
+    "Group":"Has Style Codes",
+    "Count":14042,
+    "Mean Like Count":868.67,
+    "Mean Total Reactions":1326.49,
+    "Mean Likes Per Month":370.25,
+    "Mean Reactions Per Month":553.52
+  },
+  {
+    "Category":"Style Codes",
+    "Group":"No Style Codes",
+    "Count":15058,
+    "Mean Like Count":883.48,
+    "Mean Total Reactions":1361.56,
+    "Mean Likes Per Month":372.46,
+    "Mean Reactions Per Month":564.35
+  },
+  {
+    "Category":"Negative Terms",
+    "Group":"Has Negative Terms",
+    "Count":16255,
+    "Mean Like Count":818.75,
+    "Mean Total Reactions":1257.97,
+    "Mean Likes Per Month":443.66,
+    "Mean Reactions Per Month":663.26
+  },
+  {
+    "Category":"Negative Terms",
+    "Group":"No Negative Terms",
+    "Count":12845,
+    "Mean Like Count":949.19,
+    "Mean Total Reactions":1454.32,
+    "Mean Likes Per Month":279.93,
+    "Mean Reactions Per Month":427.35
+  },
+  {
+    "Category":"Weights",
+    "Group":"Has Weights",
+    "Count":13277,
+    "Mean Like Count":867.87,
+    "Mean Total Reactions":1323.25,
+    "Mean Likes Per Month":394.84,
+    "Mean Reactions Per Month":590.09
+  },
+  {
+    "Category":"Weights",
+    "Group":"No Weights",
+    "Count":15823,
+    "Mean Like Count":883.42,
+    "Mean Total Reactions":1362.59,
+    "Mean Likes Per Month":351.72,
+    "Mean Reactions Per Month":533.14
+  }
+]

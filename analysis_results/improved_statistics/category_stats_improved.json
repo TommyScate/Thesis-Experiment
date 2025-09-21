@@ -1,0 +1,71 @@
+{
+  "prompt_length": {
+    "mean_words": 65.50214519349221,
+    "median_words": 48.0
+  },
+  "categories": {
+    "subjects": {
+      "mean_count_among_users": 3.4280573790420616,
+      "median_count_among_users": 3.0,
+      "max_count": 34,
+      "usage_percentage": 87.35822607365871,
+      "total_users": 20565
+    },
+    "style_modifiers": {
+      "mean_count_among_users": 2.403342005203122,
+      "median_count_among_users": 2.0,
+      "max_count": 15,
+      "usage_percentage": 42.453591606133976,
+      "total_users": 9994
+    },
+    "quality_boosters": {
+      "mean_count_among_users": 3.070817324484806,
+      "median_count_among_users": 3.0,
+      "max_count": 16,
+      "usage_percentage": 48.64704133214392,
+      "total_users": 11452
+    },
+    "camera_composition": {
+      "mean_count_among_users": 1.7325911143787418,
+      "median_count_among_users": 1.0,
+      "max_count": 13,
+      "usage_percentage": 40.4443311669003,
+      "total_users": 9521
+    },
+    "lighting_color": {
+      "mean_count_among_users": 1.5963013968129058,
+      "median_count_among_users": 1.0,
+      "max_count": 11,
+      "usage_percentage": 43.184231765855316,
+      "total_users": 10166
+    },
+    "artists": {
+      "mean_count_among_users": 1.5598646538261323,
+      "median_count_among_users": 1.0,
+      "max_count": 15,
+      "usage_percentage": 16.320462172380104,
+      "total_users": 3842
+    },
+    "actions_verbs": {
+      "mean_count_among_users": 1.6773035887487875,
+      "median_count_among_users": 1.0,
+      "max_count": 13,
+      "usage_percentage": 43.79593050422667,
+      "total_users": 10310
+    },
+    "style_codes": {
+      "mean_count_among_users": 2.5413546926693367,
+      "median_count_among_users": 2.0,
+      "max_count": 30,
+      "usage_percentage": 48.79147020092604,
+      "total_users": 11486
+    },
+    "negative_terms": {
+      "mean_count_among_users": 17.867821701643077,
+      "median_count_among_users": 12.0,
+      "max_count": 742,
+      "usage_percentage": 52.22377978845418,
+      "total_users": 12294
+    }
+  }
+}

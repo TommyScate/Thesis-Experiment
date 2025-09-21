@@ -1,0 +1,11 @@
+Category,Total_Prompts,With_Category,Without_Category,Usage_Percentage,Like Count_Difference,Like Count_Percentage_Change,Total Reactions_Difference,Total Reactions_Percentage_Change,Likes Per Month_Difference,Likes Per Month_Percentage_Change,Reactions Per Month_Difference,Reactions Per Month_Percentage_Change
+Subjects,29100,25025,4075,86.0,60.62,7.36,96.88,7.68,-193.33,-35.96,-280.94,-35.09
+Style Modifiers,29100,12242,16858,42.07,57.67,6.77,71.75,5.46,-19.22,-5.06,-32.68,-5.7
+Quality Boosters,29100,14616,14484,50.23,-31.07,-3.48,-63.53,-4.62,66.55,19.69,92.31,18.0
+Camera Composition,29100,12237,16863,42.05,-34.77,-3.9,-59.62,-4.35,89.77,26.91,133.03,26.44
+Lighting Color,29100,12422,16678,42.69,43.02,5.01,43.32,3.27,11.18,3.05,14.76,2.67
+Artists,29100,4735,24365,16.27,-44.13,-4.99,-71.15,-5.25,0.37,0.1,-5.61,-1.0
+Actions Verbs,29100,13043,16057,44.82,-29.09,-3.27,-17.83,-1.32,56.53,16.34,97.3,18.88
+Style Codes,29100,14042,15058,48.25,-14.81,-1.68,-35.07,-2.58,-2.22,-0.6,-10.83,-1.92
+Negative Terms,29100,16255,12845,55.86,-130.44,-13.74,-196.35,-13.5,163.73,58.49,235.91,55.2
+Weights,29100,13277,15823,45.63,-15.55,-1.76,-39.34,-2.89,43.12,12.26,56.95,10.68

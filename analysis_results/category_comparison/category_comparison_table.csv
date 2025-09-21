@@ -1,0 +1,21 @@
+Category,Group,Count,Mean Like Count,Mean Total Reactions,Mean Likes Per Month,Mean Reactions Per Month
+Subjects,Has Subjects,25025,884.82,1358.2,344.32,519.78
+Subjects,No Subjects,4075,824.19,1261.33,537.65,800.73
+Style Modifiers,Has Style Modifiers,12242,909.74,1386.21,360.26,540.2
+Style Modifiers,No Style Modifiers,16858,852.07,1314.45,379.48,572.87
+Quality Boosters,Has Quality Boosters,14616,860.86,1313.02,404.51,605.07
+Quality Boosters,No Quality Boosters,14484,891.94,1376.55,337.97,512.76
+Camera Composition,Has Camera Composition,12237,856.18,1310.09,423.41,636.22
+Camera Composition,No Camera Composition,16863,890.95,1369.71,333.64,503.18
+Lighting Color,Has Lighting Color,12422,900.99,1369.47,377.8,567.59
+Lighting Color,No Lighting Color,16678,857.96,1326.15,366.62,552.82
+Artists,Has Artists,4735,839.38,1285.06,371.7,554.43
+Artists,No Artists,24365,883.51,1356.22,371.33,560.04
+Actions Verbs,Has Actions Verbs,13043,860.28,1334.8,402.59,612.82
+Actions Verbs,No Actions Verbs,16057,889.37,1352.63,346.05,515.51
+Style Codes,Has Style Codes,14042,868.67,1326.49,370.25,553.52
+Style Codes,No Style Codes,15058,883.48,1361.56,372.46,564.35
+Negative Terms,Has Negative Terms,16255,818.75,1257.97,443.66,663.26
+Negative Terms,No Negative Terms,12845,949.19,1454.32,279.93,427.35
+Weights,Has Weights,13277,867.87,1323.25,394.84,590.09
+Weights,No Weights,15823,883.42,1362.59,351.72,533.14

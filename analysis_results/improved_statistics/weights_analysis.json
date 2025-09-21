@@ -1,0 +1,14 @@
+{
+  "patterns": {
+    "No Weights": 23538
+  },
+  "total_prompts": 23538,
+  "numeric_weights": {
+    "count": 0,
+    "mean": 0,
+    "median": 0,
+    "std": 0,
+    "min": 0,
+    "max": 0
+  }
+}
